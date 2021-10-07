@@ -1,0 +1,10 @@
+{
+  "name": "API-REST-FAKE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TiagoSSGaspar/API-REST-FAKE.git",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
