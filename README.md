@@ -16,7 +16,20 @@ ou
 ```
   npm install
 ```
-# Recusos disponíveis
+
+## :hammer: Recusos disponíveis.
+
+| Request |  URL  | 	Detalhes |
+| :---    |  :--- |  :---:    |
+|GET|	/products|	Busca todos os produtos|
+|GET|	/products/1|	Busca um produto|
+|POST|	/products|	Salva um produto|
+|PUT|	/products/1|	Atualiza dos os dados do produto|
+|PATCH|	/products/1|	Atualiza parte dos dados do produto|
+|DELETE|	/products/1|	Remove um produto|
+
+
+
 
 
 
