@@ -16,6 +16,15 @@ ou
 ```
   npm install
 ```
+# Para subir o servidor use
+```
+ yarn dev
+```
+ou 
+```
+ npm run dev
+```
+
 
 ## :hammer: Recusos disponíveis.
 
@@ -27,6 +36,15 @@ ou
 |PUT|	/products/1|	Atualiza dos os dados do produto|
 |PATCH|	/products/1|	Atualiza parte dos dados do produto|
 |DELETE|	/products/1|	Remove um produto|
+
+| Request |  URL  | 	Detalhes |
+| :---    |  :--- |  :---:    |
+|GET|	/stock|	Busca todos os produtos|
+|GET|	/stock/1|	Busca um produto|
+|POST|	/stock|	Salva um produto|
+|PUT|	/stock/1|	Atualiza dos os dados do produto|
+|PATCH|	/stock/1|	Atualiza parte dos dados do produto|
+|DELETE|	/stock/1|	Remove um produto|
 
 
 
